@@ -21,7 +21,7 @@ class Error {
      * Error::code('ERR_GET');
      * ```               
      */
-    static public function code ($code)
+    static public function code($code)
     {
 
         // 本SDK自定义错误类型
